@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/audio.png</file>
+        <file>images/b1.png</file>
+        <file>images/b2.png</file>
+        <file>images/back.jpg</file>
+        <file>images/back2.jpg</file>
+        <file>images/backg.gif</file>
+        <file>images/background.png</file>
+        <file>images/begin.png</file>
+        <file>images/buttom.png</file>
+        <file>images/clear.png</file>
+        <file>images/close.png</file>
+        <file>images/contact.png</file>
+        <file>images/delete.png</file>
+        <file>images/delete2.png</file>
+        <file>images/heart.png</file>
+        <file>images/heart1.png</file>
+        <file>images/jietou1.png</file>
+        <file>images/keyborad.png</file>
+        <file>images/last.png</file>
+        <file>images/list.png</file>
+        <file>images/login_background.png</file>
+        <file>images/login_Password.png</file>
+        <file>images/login_User.png</file>
+        <file>images/max.png</file>
+        <file>images/min.png</file>
+        <file>images/music.png</file>
+        <file>images/next.png</file>
+        <file>images/OIP-C (3).jfif</file>
+        <file>images/OIP-C (4).jfif</file>
+        <file>images/onefor.png</file>
+        <file>images/p1.jfif</file>
+        <file>images/play.png</file>
+        <file>images/randam.png</file>
+        <file>images/R-C.jfif</file>
+        <file>images/search.png</file>
+        <file>images/shuffle.png</file>
+        <file>images/skin.png</file>
+        <file>images/sound.png</file>
+        <file>images/stop.png</file>
+        <file>images/top.png</file>
+        <file>images/while.png</file>
+        <file>images/xia.png</file>
+        <file>images/zcback.jfif</file>
+        <file>images/zhu.png</file>
+        <file>images/zuo.png</file>
+        <file>images/zw.png</file>
+        <file>images/MOpenSong.png</file>
+        <file>images/MSound.png</file>
+        <file>images/add.png</file>
+        <file>images/MPlay.png</file>
+        <file>images/logo.png</file>
+        <file>images/close-normal.png</file>
+    </qresource>
+</RCC>
